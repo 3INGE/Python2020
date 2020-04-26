@@ -1,8 +1,9 @@
 # Python2020
 
-## 200424 / Initialization
+## 200425 / Initialization
 > Nothing much exept Github start
 
-## 200425 / Calculator Project
+## 200426 / Calculator Project
+> calc.py study
 
-## 200426 / XX Project
+## 200427 / XX Project
